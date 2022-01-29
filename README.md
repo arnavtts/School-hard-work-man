@@ -1,2 +1,2 @@
-# School-hard-work-man
-The work i get on school to do but is not available on youtube
+# Write a program to accept as many numbers as the user wants. The program should display the sum of numbers divisible by 7
+get this knowhere 
